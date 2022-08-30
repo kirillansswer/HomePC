@@ -1,0 +1,8 @@
+pyTelegramBotAPI~=4.0.0
+wikipedia~=1.4.0
+PyAutoGUI~=0.9.52
+pyowm~=3.0
+wikipedia~=1.4.0
+PyAutoGUI~=0.9.52
+pyowm~=3.3.0
+requests~=2.26.0
